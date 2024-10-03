@@ -3,7 +3,6 @@
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![image](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
-![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white)
 
 > Esse repositório foi criado como atividade avaliativa para a disciplina de Programação Avançada WEB, da Universidade de Vila Velha, ministrada pelo professor Otávio Lube. O exercício consiste no desenvolvimento de uma API que deve respeitar o seguinte modelo de dados (entidades e relacionamentos):
